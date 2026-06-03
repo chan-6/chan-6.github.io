@@ -14,3 +14,24 @@ body{
 
     font-family: 'Courier New', Courier, monospace;
 }
+
+.Topics{
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.aboutIntroHead{
+
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.aboutIntroText{
+
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+
+}
