@@ -7,5 +7,10 @@ body{
 .AboutText{
 
     text-align: center;
-    
+
+}
+
+.Introduction{
+
+    font-family: 'Courier New', Courier, monospace;
 }
